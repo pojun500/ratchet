@@ -31,3 +31,6 @@
 - run maven genertate-source
 
 - 访问[http://localhost:8080/](http://localhost:8080/)
+
+## 说明
+- 如果ts文件报错 尝试运行 npm run lint --fix
